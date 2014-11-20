@@ -2,7 +2,7 @@
 [Requirements] (https://github.com/ModelWriter/Requirements/issues)
 ============
 
-*User Requirements Document (URD)* and *Software Requirements Document (SRD)*
+[*User Requirements Document (URD)*](https://github.com/ModelWriter/Requirements/issues?q=is%3Aopen+is%3Aissue+label%3A%22User+Requirements+Document+%28URD%29%22) and [*Software Requirements Document (SRD)*](https://github.com/ModelWriter/Requirements/issues?q=is%3Aopen+is%3Aissue+label%3A%22Software+Requirements+Document+%28SRD%29%22)
 
 A common User Requirements Document (URD) (D1.7.1) will be compiled from the catalogues of Industrial Use Case partners, resulting in a common list of formal requirements with initial prioritization, taking into account both national priorities and international commonalities / synergies.
 
