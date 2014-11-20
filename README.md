@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ModelWriter/Requirements.png?label=ready&title=Ready)](https://waffle.io/ModelWriter/Requirements)
 Requirements
 ============
 
