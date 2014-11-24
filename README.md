@@ -1,4 +1,6 @@
-[![Stories in Ready](https://badge.waffle.io/ModelWriter/Requirements.png?label=ready&title=Ready)](https://waffle.io/ModelWriter/Requirements)
+[![Stories in "Software Requirements"](https://badge.waffle.io/ModelWriter/Requirements.png?label=Software%20Requirements%20Document%20(SRD)&title=Software%20Requirements)](https://waffle.io/ModelWriter/Requirements)
+[![Stories in "User Requirements"](https://badge.waffle.io/ModelWriter/Requirements.png?label=User%20Requirements%20Document%20(URD)&title=User%20Requirements)](https://waffle.io/ModelWriter/Requirements)
+
 [Requirements] (https://github.com/ModelWriter/Requirements/issues)
 ==========
 
